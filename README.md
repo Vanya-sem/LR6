@@ -67,7 +67,7 @@ $ git marge branch1
 ## 10. Удаление побочной ветки после слияния
 
 ```bash
-$ git log -1
+$ git branch -d branch1
 ```
 
 ## 11. Откат коммита
@@ -82,10 +82,6 @@ $ git log --all –oneline
 ```bash
 $ git reset --hard 06c6aec
 ```
-
-*Результат работы команды*
-
-![Откат к предыдущему коммиту](./screenshots/git8.png)
 
 
 ## 12. Создание ветки для отчета
