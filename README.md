@@ -83,6 +83,10 @@ $ git log --all –oneline
 $ git reset --hard 06c6aec
 ```
 
+*Результат работы команды*
+
+![Данные из веток](./screenshots/git9.png)
+
 
 ## 12. Создание ветки для отчета
 
