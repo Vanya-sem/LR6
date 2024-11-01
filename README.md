@@ -67,7 +67,7 @@ $ git marge branch1
 ## 10. Удаление побочной ветки после слияния
 
 ```bash
-$ git branch -d branch1
+$ git log -1
 ```
 
 ## 11. Откат коммита
